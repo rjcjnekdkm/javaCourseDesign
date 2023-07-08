@@ -58,10 +58,7 @@ public class ManageJFrame extends JFrame implements KeyListener,ActionListener {
     JButton orderCloseButton = new JButton("关闭");
 
 
-
     JLabel equipmentText = new JLabel("设备信息");
-
-
 
 
     public ManageJFrame() throws Exception {
